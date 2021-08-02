@@ -8,5 +8,5 @@ if(!$db){
     exit;
 }
 
-//echo "conectaste pa";
+//echo "conectado";
 
